@@ -5,10 +5,6 @@ A 3rd Year Student of B.TECH in Computer Science and Engineering(Artificial Inte
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhavikaa324&show_icons=true&theme=radical)
 
-### 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Bhavikaa324&theme=radical)
-
 
 ### 💻 Top Languages
 
