@@ -1,5 +1,5 @@
 ## Hi there, I'm Bhavika Puppalwar
-A 3rd Year Student of B.TECH in Computer Science and Engineering(Artificial Intelligence and Machine Learning). 
+A 3rd Year Student of B.TECH in Computer Science and Engineering(Artificial Intelligence and Machine Learning), driven by a strategic problem-solving mindset and a growing interest in AI/ML/DL, with a desire to contribute, grow, and apply innovative solutions.
 
 ### 📊 GitHub Stats
 
