@@ -1,5 +1,5 @@
-## Hi there, 
-I'm Bhavika Puppalwar, 3rd Year of B.TECH in Computer Science and Engineering(Artificial Intelligence and Machine Learning). 
+## Hi there, I'm Bhavika Puppalwar
+A 3rd Year Student of B.TECH in Computer Science and Engineering(Artificial Intelligence and Machine Learning). 
 
 ### 📊 GitHub Stats
 
@@ -14,8 +14,4 @@ I'm Bhavika Puppalwar, 3rd Year of B.TECH in Computer Science and Engineering(Ar
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavikaa324&layout=compact&theme=radical)
 
-
-### 🌐 Visitor Count
-
-![Visitor Count](https://komarev.com/ghpvc/?username=Bhavikaa324&color=blue)
 
