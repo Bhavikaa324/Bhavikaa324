@@ -18,7 +18,6 @@ A 3rd Year Student of B.TECH in Computer Science and Engineering(Artificial Inte
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavikaa324&layout=compact&theme=radical)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Bhavikaa324&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
 
 
