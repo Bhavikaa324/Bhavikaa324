@@ -10,14 +10,15 @@ A 3rd Year Student of B.TECH in Computer Science and Engineering(Artificial Inte
 
 ### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhavikaa324&show_icons=true&theme=radical)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Bhavikaa324&theme=dark&hide_border=false)<br/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bhavikaa324&show_icons=true&theme=radical)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Bhavikaa324&theme=radical&hide_border=false)<br/>
 
 
 ### 💻 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhavikaa324&layout=compact&theme=radical)
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Bhavikaa324&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 
