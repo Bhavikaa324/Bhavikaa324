@@ -1,5 +1,5 @@
 ## Hi there, I'm Bhavika Puppalwar
-A 3rd Year Student of B.TECH in Computer Science and Engineering(Artificial Intelligence and Machine Learning), driven by a strategic problem-solving mindset and a growing interest in AI/ML/DL, with a desire to contribute, grow, and apply innovative solutions.
+A 3rd Year Student of B.TECH in Computer Science and Engineering(Artificial Intelligence and Machine Learning), driven by a strategic problem-solving mindset and a growing interest in AI/ML/DL, with a desire to contribute, grow, and apply innovative solutions .
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/bhavika-puppalwar-186a962a4) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:puppalwarbhavika@gmail.com) 
